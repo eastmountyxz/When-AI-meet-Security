@@ -17,6 +17,8 @@
 - [[当人工智能遇上安全] 11.威胁情报实体识别 (2)基于BiGRU-CRF的中文实体识别万字详解](https://blog.csdn.net/Eastmount/article/details/136062189)
 - [[当人工智能遇上安全] 12.易学智能GPU搭建Keras环境实现LSTM恶意URL请求分类](https://blog.csdn.net/Eastmount/article/details/136218232)
 - [[当人工智能遇上安全] 13.威胁情报实体识别 (3)利用keras构建CNN-BiLSTM-ATT-CRF实体识别模型](https://blog.csdn.net/Eastmount/article/details/137560349)
+- [当人工智能遇上安全] 14.借助大语言模型GPT-4辅助恶意代码动态分析
+
 
 ---
 
