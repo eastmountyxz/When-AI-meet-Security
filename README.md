@@ -15,6 +15,8 @@
 - [[当人工智能遇上安全] 9.基于API序列和深度学习的恶意家族分类实例详解](https://blog.csdn.net/Eastmount/article/details/132899780)
 - [[当人工智能遇上安全] 10.威胁情报实体识别 (1)基于BiLSTM-CRF的实体识别万字详解](https://blog.csdn.net/Eastmount/article/details/134355040)
 - [[当人工智能遇上安全] 11.威胁情报实体识别 (2)基于BiGRU-CRF的中文实体识别万字详解](https://blog.csdn.net/Eastmount/article/details/136062189)
+- [[当人工智能遇上安全] 12.易学智能GPU搭建Keras环境实现LSTM恶意URL请求分类](https://blog.csdn.net/Eastmount/article/details/136218232)
+
 
 ---
 
